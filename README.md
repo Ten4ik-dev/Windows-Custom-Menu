@@ -24,3 +24,5 @@ To make the menu functional, you can move it to the startup folder. Additionally
 Код для цього мода відкритий, додаток .Bat. Рекомендується переписувати код лише на Visual Studio Code
 
 Щоб меню працювало, можна перекинути його в папку автозавантаження. Але для його роботи створити на робочому столі папку MyMenu та завантажити туди файли menu.bat та menu.ps1
+
+Minecraft открывается только если у человека Legacy Launcher
